@@ -4,7 +4,7 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 ## Problem Definition:
 Build a machine learning model to predict the price of a house based in Ames and Iowa.
 
-Evaluation:
+## Evaluation:
 If we are able to get an accuracy score of 95%, A Mean Absolute Error and Root Mean Squared Error between 0.0 and 0.5 Then our model is ready to go into production.
 
 Data:
